@@ -1,0 +1,10 @@
+
+#title,#dropdownMenu1{
+    font-family: 幼圆;
+    opacity:0.8;
+}
+
+#curtain{
+    background-repeat:no-repeat;                    /*图片是否重复  不重复*/
+    background-size: cover;                         /*背景图片大小   和显示器一样大*/
+}
